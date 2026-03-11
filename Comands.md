@@ -1,5 +1,9 @@
 # Comandos git
 
+## Boas praticas
+verificar se existe alterações no codigo
+com o comando 
+> git pull 
 ## Comandos para setar a maquina git
 git config --global user.name
 
@@ -17,4 +21,21 @@ git config --global  user.email
 > * -b para criar uma branch (seguido do nome referente)
 > * -d para deletar uma branch 
 
-#teste
+## Setando oring
+git push origin main
+
+
+# Terminal 
+## Listar pastas
+> dir
+
+## Criar pastas 
+> mkdir nome-da-pasta
+
+## Entrar em pastas
+> cd path-da-pasta
+
+## Abrir o vs code
+> code . (passar o path do projeto ou usar ponto "." para executar no local)
+
+
