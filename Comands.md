@@ -16,3 +16,5 @@ git config --global  user.email
 > git checkout -b nome-da-branch
 > * -b para criar uma branch (seguido do nome referente)
 > * -d para deletar uma branch 
+
+#teste
